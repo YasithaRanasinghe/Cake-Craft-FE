@@ -208,6 +208,10 @@ const ReelViewer = () => {
   );
 };
 
+// PropTypes for ReelViewer component
+
+
+
 ReelViewer.propTypes = {
   reels: PropTypes.arrayOf(PropTypes.string).isRequired,
 };
