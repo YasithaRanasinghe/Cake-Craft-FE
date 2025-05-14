@@ -28,6 +28,9 @@ const Story = () => {
       <StoryViewer stories={story.stories} />
     </div>
   );
+
+
+  // Story settinggs
 };
 
 export default Story;
