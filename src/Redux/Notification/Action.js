@@ -31,6 +31,8 @@ export const getNotificationsAction = (token) => async (dispatch) => {
     }
 };
 
+// Fetch unread notifications
+
 export const getUnreadNotificationsAction = (token) => async (dispatch) => {
     try {
         const res = await fetch(`${BASE_URL}/api/notifications/unread`, {
