@@ -1,4 +1,4 @@
-// Redux/Notification/Action.js
+// Redux/Notification/Action.js/css
 import { BASE_URL } from "../../Config/api";
 import {
     GET_NOTIFICATIONS,
