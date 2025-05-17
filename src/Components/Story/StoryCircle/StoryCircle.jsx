@@ -9,7 +9,7 @@ const StoryCircle = ({ image, username, userId }) => {
     navigate(`story/${userId}`);
   };
 
-  
+  // Story setter - create story
   return (
     <div className="cursor-pointer flex flex-col items-center" onClick={handleNavigate}>
       <img className="w-16 h-16 rounded-full" src={image} alt="" />
