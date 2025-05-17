@@ -99,3 +99,6 @@ const HomePage = () => {
 };
 //css styles added fro home page
 export default HomePage;
+
+
+// import React, { useEffect } from "react";
