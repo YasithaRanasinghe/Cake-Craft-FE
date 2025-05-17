@@ -176,3 +176,11 @@ const LearningProgress = () => {
 };
 
 export default LearningProgress;
+<<<<<<< Updated upstream
+=======
+// LearningProgress.jsx
+// This component is responsible for displaying and managing the learning progress updates.
+
+//Improve comments for clarity and understanding
+//Remove unused import
+>>>>>>> Stashed changes
