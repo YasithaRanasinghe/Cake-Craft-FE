@@ -176,3 +176,4 @@ const LearningProgress = () => {
 };
 
 export default LearningProgress;
+// LearningProgress.jsx
