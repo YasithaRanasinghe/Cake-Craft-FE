@@ -27,3 +27,5 @@ const Register = () => {
 };
 
 export default Register;
+
+// src/Components/Register/Register.jsx
